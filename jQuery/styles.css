@@ -1,0 +1,22 @@
+body{
+    background-color: #F2D974;
+}
+
+.title {
+    color: #534E52;
+    font-size: 2rem;
+}
+
+.button_1 {
+    background-color: #C7956D;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.button_2 {
+    background-color: #534E52;
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
+}

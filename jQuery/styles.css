@@ -9,8 +9,8 @@ body{
 
 .button_1 {
     background-color: #C7956D;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     cursor: pointer;
 }
 
@@ -19,4 +19,20 @@ body{
     width: 300px;
     height: 300px;
     cursor: pointer;
+}
+
+.color_1 {
+    background-color: white;
+}
+
+.color_2 {
+    background-color: #C7956D;
+}
+
+.margin_1 {
+    margin: 10px;
+}
+
+.marggin_2 {
+    margin: 40px;
 }

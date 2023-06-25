@@ -24,3 +24,18 @@ Made with the JQuery, the program make a pattern to the player to follow based o
 ![SIMON1](https://github.com/Samuel-Rodriguez28/JavaScript/assets/123322127/83a2c0d4-7e7b-46bd-be6b-a05b2196db46)
 ![SIMON2](https://github.com/Samuel-Rodriguez28/JavaScript/assets/123322127/9aa6b708-ab67-4f68-b140-60844724265d)
 
+Fourth Project: Mini Weather App!
+Made with NodeJS, ExpressJS, Nodemon and a weather API from https://openweathermap.org I made a simple weather forecast app that checks the weather in a given city, opening a server with Express.
+
+![image](https://github.com/Samuel-Rodriguez28/JavaScript/assets/123322127/3134a53b-72c9-49bf-ba7f-53b90cc69de9)
+![image](https://github.com/Samuel-Rodriguez28/JavaScript/assets/123322127/ba580e8f-59ec-45b5-85f5-39bf95411ee6)
+![image](https://github.com/Samuel-Rodriguez28/JavaScript/assets/123322127/f1783a7c-2a28-4ae1-be99-613922917636)
+
+
+
+
+
+
+
+
+

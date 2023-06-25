@@ -16,6 +16,8 @@ A drum kit to unleash the drummer you have inside!
 Made with pure DOM and JavaScript, the program integrates event listeners and keypress events to reproduce the sound of the respective drum to a certain keys or pressed buttons, making possible to make an epic drum solo of your own. You can check this project on your own downloading the files on the Drum Kit folder!
 ![DRUM1](https://github.com/Samuel-Rodriguez28/JavaScript/assets/123322127/477c7e24-62cf-4a6a-861b-5d35a19c5400)
 
+# 
+
 # Third Project: Simon Game! 
 That memory game where the machine does a certain pattern of colors that you have to press in the exact order or either you're gonna loose.
 Made with the JQuery, the program make a pattern to the player to follow based on a random number and stores the pattern in an array, if the player follows the pattern the game continues, when the player make a mistake, the game's over. You can check this project on your own downloading the files on the Simon Game folder!
